@@ -1,6 +1,6 @@
 # 1. Showcase Your Dance Moves!
 
-# Task 1
+# Task 1: Code Correction
 weather = "sunny"
 
 if weather == "sunny":
@@ -9,7 +9,7 @@ else:
     print("Take an umbrella!")
     
 
-# Task 2
+# Task 2: Your Mood Today
 mood = input("How are you feeling today?")
 if mood == "happy":
     print("That's great to hear!")
